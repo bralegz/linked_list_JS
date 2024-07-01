@@ -1,6 +1,6 @@
-import append from "./methods/append.js";
-import printList from "./methods/printList.js";
-import prepend from "./methods/prepend.js";
+import append from "../methods/append.js";
+import printList from "../methods/printList.js";
+import prepend from "../methods/prepend.js";
 
 class Linked_List {
   constructor() {
@@ -26,15 +26,5 @@ class Linked_List {
   }
 }
 
-const ll = new Linked_List();
+export default Linked_List;
 
-ll.append(9);
-ll.append(12);
-ll.append(15);
-ll.append(10);
-ll.append(2);
-ll.prepend(200);
-ll.prepend(300);
-
-
-ll.printList();
