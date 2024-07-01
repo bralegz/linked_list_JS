@@ -17,6 +17,10 @@ class Linked_List {
     prepend.call(this, value);
   }
 
+  searchNode(value) {
+
+  }
+
   insert = (value, position) => {};
 
   reverse = () => {};
