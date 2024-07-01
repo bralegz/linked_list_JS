@@ -1,0 +1,20 @@
+{
+  "name": "linked_list",
+  "type":"module",
+  "version": "1.0.0",
+  "description": "",
+  "main": "linked_list.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bralegz/linked_list_JS.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bralegz/linked_list_JS/issues"
+  },
+  "homepage": "https://github.com/bralegz/linked_list_JS#readme"
+}
